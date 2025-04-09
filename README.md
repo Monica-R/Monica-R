@@ -29,7 +29,7 @@ Here's a little about me and what I do:
 - **Frontend**: HTML, CSS, JavaScript (ES6+)
 - **Frameworks**: React, Vue
 - **Backend**: Express
-- **Databases**: MongoDB
+- **Databases**: MongoDB, MySQL
 - **Version Control**: Git, GitHub
 - **Specialty**: Responsive Web Design
 
