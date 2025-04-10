@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a passionate web developer who loves crafting beautiful, responsive, and functional web experiences.
 # 💫 About Me:
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: understanding the **basics and fundamentals of TypeScript**
+- 🎯 I’m looking for opportunities where I can improve my skills and apply the knowledge I’ve acquired in a real-world environment.
 - ⚡ Fun fact: listening music (a little bit of everything!)
 ---
 
