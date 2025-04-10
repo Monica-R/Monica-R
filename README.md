@@ -19,18 +19,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves crafting 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: understanding the **basics and fundamentals of TypeScript**
 - ⚡ Fun fact: listening music (a little bit of everything!)
-
-Here's a little about me and what I do:
----
-
-## 🛠 My Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (ES6+)
-- **Frameworks**: React, Vue
-- **Backend**: Express
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
-- **Specialty**: Responsive Web Design
-
 ---
 
 ## 🌟 What I Do
